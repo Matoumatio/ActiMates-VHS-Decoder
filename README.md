@@ -75,11 +75,11 @@ These two videos show what the barcode audio export actually sounds like in prac
 
 **Example 1** — Raw barcode audio from a cartoon episode The background audio from the cartoon itself bleeds through, which is expected since the barcode strip is part of the same video signal:
 
-[ActiMates Barcode Audio Example 1](https://www.youtube.com/watch?v=BXEfCJNyvfI)
+[![ActiMates Barcode Audio Example 1](https://www.youtube.com/watch?v=BXEfCJNyvfI)]
 
 **Example 2** — Raw barcode audio where the ActiMates plush responses are audible alongside the barcode signal, giving a clearer sense of the timing relationship between the signal and the toy's reactions:
 
-[ActiMates Barcode Audio Example 2](https://www.youtube.com/watch?v=qKrls2Ymwo4)
+[![ActiMates Barcode Audio Example 2](https://www.youtube.com/watch?v=qKrls2Ymwo4)]
 
 ---
 
